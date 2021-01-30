@@ -1,0 +1,68 @@
+body{
+  font-family: Arial;
+  background: url(background.jpg) no-repeat center center fixed;
+  background-size: cover;
+}
+
+header{
+  text-align: center;
+}
+
+h1{
+  color: rgb(23, 235, 12);
+  margin-bottom: 2px;
+}
+
+section {
+  color: white;
+}
+
+.smusso{
+  border-radius: 5px;
+}
+
+.sfondotrasp{
+  background-color: rgba(0, 0, 0, 0.5);
+  margin: 5%;
+  border-radius: 15px;
+  padding: 50px;
+}
+
+.rigaverde{
+  background-color: rgb(23, 235, 12);
+  padding: 10px;
+}
+
+.monopattini{
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.proprieta{
+  margin: 10px 0px;
+}
+
+.battery {
+  margin: 5px 0px 0px 0px;
+}
+
+.boxorange{
+  background-color: orange;
+  width: 250px;
+  height: 23px;
+  margin-bottom: 30px;
+}
+
+.boxgreen{
+  background-color: rgb(16, 195, 0);
+  width: 450px;
+  height: 23px;
+  margin-bottom: 30px;
+}
+
+.boxred{
+  background-color: rgb(196, 58, 58);
+  width: 150px;
+  height: 23px;
+  margin-bottom: 30px;
+}
